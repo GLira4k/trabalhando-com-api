@@ -1,0 +1,19 @@
+{   
+    "id": 1,
+    "nome": "Gabriel",
+    "sobrenome": "Xavier Lira",
+    "dt_nascimento": "13/09/2001",
+    "residencia": {
+        "estado": "MG",
+        "cidade": "Belo Horizonte",
+        "rua":"Alameda do Ipê Amarelo",
+        "numero": "123",
+        "complemento":null,
+        "cep": "31275090"
+    },
+    "certificacoes": [
+        "Rocketseat Discover",
+        "Rocketseat Explorer",
+        "Rocketseat Ignite"  
+    ]    
+}
